@@ -337,20 +337,48 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
     - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
   - Assets
+=======
+<<<<<<< HEAD
+    - Assets/EnviroModels
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/EnviroModels
+=======
+    - Assets/Scenes
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/Scenes
+>>>>>>> master
+>>>>>>> master
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Josh\Documents\game projects\realHallway\REALhallwayhours
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 38310000
     m_LastClickedID: 12600
     m_ExpandedIDs: 000000003831000000ca9a3b
+=======
+<<<<<<< HEAD
+    m_SelectedIDs: c82f0000
+    m_LastClickedID: 12232
+    m_ExpandedIDs: 000000007e2c000000ca9a3b
+=======
+    m_SelectedIDs: d6310000
+    m_LastClickedID: 12758
+    m_ExpandedIDs: 000000002231000000ca9a3b
+>>>>>>> master
+>>>>>>> master
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -378,7 +406,15 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 0000000038310000
+=======
+<<<<<<< HEAD
+    m_ExpandedIDs: 000000007e2c0000
+=======
+    m_ExpandedIDs: 0000000022310000
+>>>>>>> master
+>>>>>>> master
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -499,9 +535,21 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
       m_SelectedIDs: ec310000
       m_LastClickedID: 0
       m_ExpandedIDs: 2afaffffd8faffff
+=======
+<<<<<<< HEAD
+      m_SelectedIDs: faf9ffff
+      m_LastClickedID: -1542
+      m_ExpandedIDs: 7afbffff
+=======
+      m_SelectedIDs: 52310000
+      m_LastClickedID: 0
+      m_ExpandedIDs: f8f9ffff1afaffff3cfaffffe2faffff
+>>>>>>> master
+>>>>>>> master
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -592,13 +640,33 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
+<<<<<<< HEAD
     m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
     speed: 2
     m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+=======
+<<<<<<< HEAD
+    m_Target: {x: 0.0060017365, y: 0.99182373, z: -0.11688668, w: 0.05092633}
+    speed: 2
+    m_Value: {x: 0.005435193, y: 0.9917531, z: -0.11989602, w: 0.044958264}
+=======
+    m_Target: {x: -0.030935781, y: 0.95922583, z: -0.115964204, w: -0.25589323}
+    speed: 2
+    m_Value: {x: -0.030761797, y: 0.9596085, z: -0.116010465, w: -0.25445408}
+>>>>>>> master
+>>>>>>> master
   m_Size:
     m_Target: 10
     speed: 2
+<<<<<<< HEAD
     m_Value: 10
+=======
+<<<<<<< HEAD
+    m_Value: 7.8020697
+=======
+    m_Value: 9.755962
+>>>>>>> master
+>>>>>>> master
   m_Ortho:
     m_Target: 0
     speed: 2
